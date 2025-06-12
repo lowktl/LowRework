@@ -21,7 +21,7 @@ while 1:
  | |__| (_) \ V  V / 
  |_____\___/ \_/\_/  
     
-    Sms: {}           {}by {}@lowklt\n  
+    Sms: {}           {}by {}@lowktl\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Sonsuz)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
